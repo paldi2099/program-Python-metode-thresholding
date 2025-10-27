@@ -37,7 +37,7 @@ Berikut visualisasi tahapan pemrosesan citra:
 | **Sure Background**            | Area yang paling mungkin menjadi latar belakang.                       |
 | **Hasil Segmentasi Watershed** | Batas objek akhir ditandai warna merah sebagai hasil akhir segmentasi. |
 
-![Hasil Segmentasi](gambar.jpg)
+![Hasil Segmentasi](https://github.com/paldi2099/program-Python-metode-thresholding/blob/da5a6fc09c5214d252d35e8f2374fff23fc8bf71/hasil%20output.png)
 
 ---
 
