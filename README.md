@@ -78,7 +78,3 @@ Secara visual, hasil akhir menunjukkan bahwa **batas objek terdeteksi dengan bai
 * **Otsu Thresholding** berguna untuk segmentasi awal otomatis.
 * **Watershed Algorithm** menyempurnakan hasil dengan menandai batas antar objek secara presisi.
 * Kombinasi keduanya menghasilkan segmentasi yang baik tanpa memerlukan parameter manual.
-
----
-
-Apakah kamu ingin saya tambahkan versi markdown-nya yang bisa langsung ditempel ke README GitHub (pakai format `README.md`)?
