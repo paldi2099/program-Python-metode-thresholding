@@ -10,7 +10,7 @@ Proyek ini merupakan tugas UTS mata kuliah **Citra Digital**, yang berfokus pada
 
 ## 📂 Struktur Proyek
 
-* `main.py` → Program utama untuk menjalankan seluruh proses segmentasi
+* `citradgital.py` → Program utama untuk menjalankan seluruh proses segmentasi
 * `gambar.jpg` → Citra uji yang digunakan untuk segmentasi
 
 ---
