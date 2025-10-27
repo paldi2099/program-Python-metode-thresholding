@@ -12,8 +12,6 @@ Proyek ini merupakan tugas UTS mata kuliah **Citra Digital**, yang berfokus pada
 
 * `main.py` → Program utama untuk menjalankan seluruh proses segmentasi
 * `gambar.jpg` → Citra uji yang digunakan untuk segmentasi
-* `hasil_segmentasi.png` → Hasil akhir segmentasi citra menggunakan algoritma Watershed
-* Folder `output/` *(opsional)* → Menyimpan hasil pemrosesan citra
 
 ---
 
@@ -39,7 +37,8 @@ Berikut visualisasi tahapan pemrosesan citra:
 | **Sure Background**            | Area yang paling mungkin menjadi latar belakang.                       |
 | **Hasil Segmentasi Watershed** | Batas objek akhir ditandai warna merah sebagai hasil akhir segmentasi. |
 
-![Hasil Segmentasi](https://raw.githubusercontent.com/example-user/UTS-Citra_Digital_Segmentation/main/hasil_segmentasi.png)
+![Hasil Segmentasi](https://raw.githubusercontent.com/example-user/program-Python-metode-thresholding
+/main/gambar.jpg)
 
 ---
 
